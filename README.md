@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 ## languages
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7E018)
-![](https://img.shields.io/badge/Code-go-informational?style=for-the-badge&logo=go&logoColor=white&color=71C3D4)
 ![](https://img.shields.io/badge/Code-python-informational?style=for-the-badge&logo=python&logoColor=white&color=336D9A)
 ![](https://img.shields.io/badge/Code-nodejs-informational?style=for-the-badge&logo=node.js&logoColor=white&color=23B45D)
 ![](https://img.shields.io/badge/Code-html-informational?style=for-the-badge&logo=html&logoColor=white&color=D84924)
@@ -27,5 +26,5 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/IDE-intellij-informational?style=for-the-badge&logo=intellij-IDEA&logoColor=white&color=E33464)
 
 ## GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=avishaiDV&show_icons=true&theme=vue-dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avishaiDV&layout=compact&langs_count=8&theme=vue-dark)
+![](https://github-readme-stats.vercel.app/api?username=MeniViner&show_icons=true&theme=vue-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeniViner&layout=compact&langs_count=8&theme=vue-dark)
