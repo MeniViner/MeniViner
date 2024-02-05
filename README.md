@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 ## languages
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7E018)
-![](https://img.shields.io/badge/Code-python-informational?style=for-the-badge&logo=python&logoColor=white&color=336D9A)
-![](https://img.shields.io/badge/Code-nodejs-informational?style=for-the-badge&logo=node.js&logoColor=white&color=23B45D)
 ![](https://img.shields.io/badge/Code-html-informational?style=for-the-badge&logo=html&logoColor=white&color=D84924)
 ![](https://img.shields.io/badge/Code-css-informational?style=for-the-badge&logo=css&logoColor=white&color=006AB1)
 ![](https://img.shields.io/badge/Code-java-informational?style=for-the-badge&logo=java&logoColor=white&color=E11E23)
